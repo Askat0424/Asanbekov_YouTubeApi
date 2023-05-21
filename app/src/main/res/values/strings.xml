@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asanbekov_YouTubeApi</string>
+    <string name="todo" />
+    <string name="fab_button" />
+    <string name="playlist" />
+    <string name="back" />
+</resources>
